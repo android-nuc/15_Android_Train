@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.androidlab.linearlayoutdemo.MainActivity">
+
+    <LinearLayout
+        android:layout_weight="4"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:background="#fff"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:background="#ff0"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:background="#0ff"
+            android:layout_height="match_parent"/>
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:background="#f0f"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical">
+        <TextView
+            android:text="Hello"
+            android:background="#fff"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        <TextView
+            android:text="Android"
+            android:layout_weight="1"
+            android:background="#ff0"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+        <TextView
+            android:text="Lab"
+            android:layout_weight="1"
+            android:background="#f0f"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+
+    </LinearLayout>
+</LinearLayout>
