@@ -1,0 +1,1 @@
+include ':app', ':activity_01', ':activity_02', ':activity_03', ':activity_04'
