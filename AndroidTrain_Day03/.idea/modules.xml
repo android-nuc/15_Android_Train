@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLesson_Day03.iml" filepath="$PROJECT_DIR$/AndroidLesson_Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music/music.iml" filepath="$PROJECT_DIR$/music/music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_demo/service_demo.iml" filepath="$PROJECT_DIR$/service_demo/service_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleinstance_demo/singleinstance_demo.iml" filepath="$PROJECT_DIR$/singleinstance_demo/singleinstance_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletask_demo/singletask_demo.iml" filepath="$PROJECT_DIR$/singletask_demo/singletask_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singletop_demo/singletop_demo.iml" filepath="$PROJECT_DIR$/singletop_demo/singletop_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/specification/specification.iml" filepath="$PROJECT_DIR$/specification/specification.iml" />
+    </modules>
+  </component>
+</project>

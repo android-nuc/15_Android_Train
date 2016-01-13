@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">service_demo</string>
+    <string name="start_service">开启服务</string>
+    <string name="stop_service">结束服务</string>
+    <string name="bind_service">绑定服务</string>
+    <string name="unbind_service">解绑服务</string>
+</resources>

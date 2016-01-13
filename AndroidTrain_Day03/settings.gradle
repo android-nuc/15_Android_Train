@@ -1,0 +1,1 @@
+include ':app', ':singletop_demo', ':singletask_demo', ':singleinstance_demo', ':specification', ':service_demo', ':music'
